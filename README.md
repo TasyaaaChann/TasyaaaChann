@@ -11,10 +11,6 @@
 - 🏘️ Suroboyo 
 - 📌 Kang Recode
 - YONDATAU SU
-  
-<a href="https://www.instagram.com/nckyy_21/">
-    <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
 
   <a href="https://wa.me/6283115192154">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
