@@ -15,3 +15,9 @@
   <a href="https://wa.me/6283115192154">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
+
+
+</p>
+<p align="center">
+<a href="#"><img title="Ｔａｓｙａ⸙" src="https://img.shields.io/badge/ALPHABOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
