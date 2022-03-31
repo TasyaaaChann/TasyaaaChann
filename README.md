@@ -19,5 +19,5 @@
 
 </p>
 <p align="center">
-<a href="#"><img title="Ｔａｓｙａ⸙" src="https://img.shields.io/badge/ALPHABOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Ｔａｓｙａ⸙" src="https://img.shields.io/badge/Ｔａｓｙａ⸙-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
