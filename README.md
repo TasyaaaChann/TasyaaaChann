@@ -17,6 +17,8 @@
 <img src="https://telegra.ph/file/773962482dbce4f3a1358.jpg" />
 </p>
 
-<a href="https://wa.me/18045292269">
-    <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-  </a> &nbsp;&nbsp
+<p>Connect with me 👋</p>
+
+<a href="https://wa.me/18045292269" target="_blank">
+    <img src="https://img.shields.io/badge/whatsapp-%2312100E.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=071A2C" alt="WhatsApp"/>
+  </a>
