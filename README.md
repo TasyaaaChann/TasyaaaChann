@@ -12,7 +12,7 @@
 - 📌 Kang Recode
 - YONDATAU SU
 
-  <a href="https://wa.me/6283115192154">
+  <a href="https://wa.me/18045292269">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
 
