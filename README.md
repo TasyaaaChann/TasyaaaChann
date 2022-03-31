@@ -21,3 +21,6 @@
 <p align="center">
 <a href="#"><img title="Ｔａｓｙａ⸙" src="https://img.shields.io/badge/Ｔａｓｙａ⸙-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
+
+<img src="https://telegra.ph/file/ce25b12dc0670be933ab4.jpg" />
+</p>
